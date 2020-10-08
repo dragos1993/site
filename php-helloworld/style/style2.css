@@ -1,0 +1,80 @@
+a {
+    text-align: center;
+    font-size: 40px;
+    font-family: Lato;
+    margin-bottom: 25px;
+    background-color: aqua;
+}
+
+.header {
+    height: 200px;
+    background-color: #606060;
+}
+
+.container {
+    width: 1000px;
+    height: 200px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.logo {
+    padding-top: 25px;
+    width: 300px;
+    height: 75px;
+    position: relative;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.nav {
+    text-align: center;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+.logo img {
+    position: absolute;
+    width: 300%;
+    height: 150px;
+    background-color: aqua;
+}
+
+.nav ul {
+    text-align: center;
+    position: relative;
+    background-color: aqua;
+}
+
+.nav ul li {
+    text-align: center;
+    display: inline-block;
+    font-size: 600px;
+    font-family: 'Lato';
+    padding-right: 35px;
+    background-color: aqua;
+}
+
+.login h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Lato;
+    background-color: aqua;
+    margin-bottom: 25px;
+    background-color: aqua;
+}
+
+.login form {
+    text-align: center;
+    background-color: aqua;
+}
+
+.login form input {
+    width: 300px;
+    height: 30 px;
+    margin-bottom: 20px;
+    font-family: Lato;
+    text-indent: 10px;
+    padding: 2.5px;
+    background-color: aqua;
+}
