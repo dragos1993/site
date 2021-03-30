@@ -20,7 +20,7 @@
         <div class="login">
             <div class="container">
             <ul>
-            <h1>Bine ai venitiiiiiiiiiii!<br>Alege materia:</h1><br><br><br>
+            <h1>Bine ai venit!<br>Alege materia:</h1><br><br><br>
                      <div class="nav">
                    <li><a href="OM-selectare.php"> OM2 </a></li><br><br><br>
                    <li><a href="PD2.php"> PD2 </a></li><br><br><br>
